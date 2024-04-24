@@ -1,0 +1,5 @@
+@import 'react-toastify/dist/ReactToastify.min.css';
+@import 'react-phone-input-2/lib/style.css';
+:root {
+  --toastify-font-family: jioType;
+}
