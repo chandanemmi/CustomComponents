@@ -1,0 +1,10 @@
+// export { default as Image } from '@/components/UI/image/Image';
+// export { default as Code } from '@/components/UI/code/Code';
+// export { default as Dialog } from '@/components/UI/dialog/Dialog';
+export { default as Input } from '@/components/UI/input/Input';
+export { default as Typography } from '@/components/UI/typography/Typography';
+export { default as Phone } from '@/components/UI/phone/Phone';
+export { default as Card } from '@/components/UI/card/Card';
+export { default as Select } from '@/components/UI/select/select';
+export { default as DatePicker } from '@/components/UI/datePicker/datePicker';
+export { default as Search } from '@/components/UI/search/Search';
