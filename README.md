@@ -1,4 +1,33 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Git commads
+Git 
+- [ ] To create new branch and checkout to it
+	$ git checkout -b Release_344573_Multi_POB_Selection_View_Report  
+
+- [ ]   To push it so it will be created into origin also
+    - [ ] $ git push origin (branch name which need to be created in origin)Release_344573_Multi_POB_Selection_View_Report  
+
+- [ ] To do uncommit 
+    - [ ] $ git reset --soft HEAD~1
+    - [ ] $ git commit -m “”
+    - [ ] $ git push -f
+	
+	
+- [ ] Use this when we get branch diverge warning after git pull master
+- [ ] $ git pull upstream  master --rebase=false
+- [ ] To reset the merge conflicts
+        - [ ] $ git reset --hard;  
+- [ ] To fetch all branches from upstream
+    - [ ] $ git fetch --all
+     
+- [ ] kill -9 $(lsof -ti tcp:3000)
+
+
+
+
+
+
+
 
 ## Getting Started
 
